@@ -5,7 +5,7 @@ Contém exercícios, exemplos e pequenos projetos organizados por temas — idea
 
 ---
 
-📁 Estrutura do Projeto
+📁 Estrutura do Projeto\
 INTRO-PHYTON/\
 │\
 ├── Dicionarios/\
@@ -71,12 +71,6 @@ Intro_Phyton: introdução com exemplos básicos e exercícios
 
 ⚙️ Como Executar
 
-Clone o repositório:
-
-git clone https://github.com/SEU_USUARIO/INTRO-PHYTON.git
-cd INTRO-PHYTON
-
-
 Certifique-se de ter o Python instalado:
 
 python --version
@@ -90,8 +84,6 @@ python Intro_Phyton/01_variaveis.py
 🧰 Requisitos
 
 Python 3.8 ou superior
-
-Nenhuma biblioteca externa necessária (apenas módulos nativos)
 
 ---
 
