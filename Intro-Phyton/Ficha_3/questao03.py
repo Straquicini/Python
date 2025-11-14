@@ -40,7 +40,7 @@ biblioteca["livro1"]["disponivel"] = False
 # 4. Criar uma função que retorne uma lista com os títulos dos livros de um determinado autor
 def livros_do_autor(autor):
     livros_do_autor = []
-    for livro in biblioteca.keys():
+    for livro in biblioteca.values():
         if livro['autor'] == autor:
             livros_do_autor.append(livro['titulo'])
     return livros_do_autor

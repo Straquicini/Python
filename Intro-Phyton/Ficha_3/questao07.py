@@ -31,7 +31,6 @@ for palavra in palavras:
 comprimento_medio = soma_tamanhos / total_palavras if total_palavras > 0 else 0
 
 # Identifica as 5 palavras mais comuns
-# ordena por frequência (maior primeiro)
 palavras_ordenadas = sorted(frequencia.items(), key=lambda x: x[1], reverse=True)
 cinco_mais_comuns = palavras_ordenadas[:5]
 

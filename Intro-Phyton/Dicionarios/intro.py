@@ -48,4 +48,4 @@ produtos = {
     'sapato': {'preco': 55.99, 'iva': 0.23}
 }
 
-print(produtos(produtos))
+print(produtos(sorted(produtos.items(), key=lambda item: item[1])))
