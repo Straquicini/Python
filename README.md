@@ -7,6 +7,8 @@ Contém exercícios, exemplos e pequenos projetos organizados por temas — idea
 
 📁 Estrutura do Projeto\
 INTRO-PHYTON/\
+├── classes/\
+│   ├── cliente.py\
 │\
 ├── Dicionarios/\
 │   ├── comp.py\
@@ -22,6 +24,21 @@ INTRO-PHYTON/\
 │   ├── questao04.py\
 |    ├── questao05.py\
 │   └── questao07.py\
+│\
+├── ficha_4/\
+│   ├── gestão_livros.py\
+│\
+├── ficha_4_outra_forma/\
+│   ├── functions.py\
+│   ├── main.py\
+│\
+├── ficha_5/\
+│   ├── cliente.py\
+│\
+├── ficheiros/\
+│   ├── dados.txt\
+│   ├── intro.py\
+│   ├── produtos.csv\
 │\
 ├── Intro_Phyton/\
 │   ├── 01_variaveis.py\
