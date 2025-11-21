@@ -1,3 +1,5 @@
+from math import sqrt
+
 class Triangulo:
     def __init__(self, lado1, lado2, lado3):
         self.lado1 = lado1
