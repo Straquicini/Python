@@ -22,7 +22,7 @@ INTRO-PHYTON/\
 │   ├── questao02.py\
 │   ├── questao03.py\
 │   ├── questao04.py\
-|    ├── questao05.py\
+│   ├── questao05.py\
 │   └── questao07.py\
 │\
 ├── ficha_4/\
