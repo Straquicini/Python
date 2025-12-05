@@ -66,7 +66,7 @@ class ComandoTv:
     # Setter para canal
     @canal.setter
     def canal(self, novo_canal):
-        if novo_canal < 100:
+        if 1 <= novo_canal <= 100:
             print("Canal inválido")
         else: self.__canal = novo_canal
         
@@ -78,7 +78,7 @@ class ComandoTv:
     # Setter para volume
     @volume.setter
     def volume(self, novo_volume):
-        if novo_volume < 50:
+        if 1 <= novo_volume <= 50:
             print("Volume inválido")
         else: self.__volume = novo_volume
         
